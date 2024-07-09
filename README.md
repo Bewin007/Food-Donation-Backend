@@ -16,6 +16,6 @@ The backend facilitates the management of food donation activities, connecting d
 
 ## Technologies Used
 
-- **Backend Framework**: Django
+- **Backend Framework**: DRF
 - **Database**: sqlite
 - **Authentication**: Token-based authentication (JWT)
